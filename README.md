@@ -1,12 +1,16 @@
 <h3 align="center">
-  🌟 Passionate Web Designer & Developer 🚀
-  🌍 Based in Delhi, India 🇮🇳 | 4th Year ECE Student 🎓 
-  🤖 Tech Enthusiast | Problem Solver | Innovator 🔧
-  💡 Creating Beautiful, User-Centered Digital Experiences 🎨
-  👨‍💻 Committed to Design Excellence | Tech Enthusiast🤖 
-  🔍 Exploring Web Development & DSA | Ready for Challenges 
-  
-  💪 Let's connect and build something amazing! 🤝🌐</h3>
+  <h3 align="center">
+  🌟 Passionate Web Designer & Developer 🚀<br>
+  🌍 Based in Delhi, India 🇮🇳 | 4th Year ECE Student 🎓<br>
+  🤖 Tech Enthusiast | Problem Solver | Innovator 🌟<br>
+  💡 Creating Beautiful, User-Centered Digital Experiences 🎨<br>
+  👨‍💻 Committed to Design Excellence | Tech Enthusiast🤖<br>
+  🔍 Exploring Web Development & DSA | Ready for Challenges 💪<br>
+    
+  💪 Let's connect and build something amazing! 🤝🌐
+</h3>
+
+  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansuryavanshi-1&label=Profile%20views&color=0e75b6&style=flat" alt="amansuryavanshi-1" /> </p>
 
