@@ -1,21 +1,27 @@
 <h1 align="center">Hi 👋, I'm Aman Suryavanshi</h1>
 
 <p align="center">
-  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" style="border-radius: 10px;">
+  <img alt="Coding" align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" style="border-radius: 10px;">
 </p>
 
 <h3 align="left">
+  
   🌟 Passionate Web Designer & Developer 🚀<br>
+  
   🌍 Based in Delhi, India 🇮🇳 | 4th Year ECE Student 🎓<br>
+  
   🤖 Tech Enthusiast | Problem Solver | Innovator 🌟<br>
+  
   💡 Creating Beautiful, User-Centered Digital Experiences 🎨<br>
+  
   👨‍💻 Committed to Design Excellence | Tech Enthusiast 🤖<br>
+  
   🔍 Exploring Web Development & DSA | Ready for Challenges 💪<br>
-    
+
   💪 Let's connect and build something amazing! 🤝🌐
 </h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=amansuryavanshi-1&label=Profile%20views&color=0e75b6&style=flat" alt="amansuryavanshi-1" />
 </p>
 
@@ -47,6 +53,7 @@
   </a>
   <a href="https://www.leetcode.com/_aman_suryavanshi_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_aman_suryavanshi_" height="30" width="40" />
+
   </a>
 </p>
 
