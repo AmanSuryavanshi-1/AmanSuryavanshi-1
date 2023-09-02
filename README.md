@@ -4,7 +4,7 @@
   <img alt="Coding" align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" style="border-radius: 10px;">
 </p>
 
-<h3 align="left">
+<h4 align="left">
   
   🌟 Passionate Web Designer & Developer 🚀<br>
   
@@ -19,7 +19,7 @@
   🔍 Exploring Web Development & DSA | Ready for Challenges 💪<br>
 
   💪 Let's connect and build something amazing! 🤝🌐
-</h3>
+</h4>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=amansuryavanshi-1&label=Profile%20views&color=0e75b6&style=flat" alt="amansuryavanshi-1" />
