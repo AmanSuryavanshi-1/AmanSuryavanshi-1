@@ -1,4 +1,4 @@
-<h3 align="center">
+<h3 align="left">
   <h3 align="center">
   🌟 Passionate Web Designer & Developer 🚀<br>
   🌍 Based in Delhi, India 🇮🇳 | 4th Year ECE Student 🎓<br>
