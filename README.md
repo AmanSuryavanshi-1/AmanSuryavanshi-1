@@ -1,5 +1,4 @@
 <h3 align="left">
-  <h3 align="center">
   🌟 Passionate Web Designer & Developer 🚀<br>
   🌍 Based in Delhi, India 🇮🇳 | 4th Year ECE Student 🎓<br>
   🤖 Tech Enthusiast | Problem Solver | Innovator 🌟<br>
@@ -10,7 +9,6 @@
   💪 Let's connect and build something amazing! 🤝🌐
 </h3>
 
-  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansuryavanshi-1&label=Profile%20views&color=0e75b6&style=flat" alt="amansuryavanshi-1" /> </p>
 
