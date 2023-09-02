@@ -50,7 +50,7 @@
   <div style="flex: 1; margin-bottom: 10px;">
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=amansuryavanshi-1&" alt="amansuryavanshi-1" /></p>
   </div>
-  <div style="flex: 1;">
+  <div style="flex: 1; margin-bottom: 10px;">
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amansuryavanshi-1&show_icons=true&locale=en&layout=compact" alt="amansuryavanshi-1" /></p>
   </div>
 </div>
