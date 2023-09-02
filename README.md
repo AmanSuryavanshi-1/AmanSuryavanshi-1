@@ -15,7 +15,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amansuryavanshi-1" alt="amansuryavanshi-1" /></a> </p>
 
-- 🔭 I’m currently working on **my problem solving skills**
+- 🔭 I’m currently working on **my problem solving skills
+**
 
 - 🌱 I’m currently learning **backend tech**
 
@@ -27,8 +28,8 @@
 
  <hr>
  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">**Connect with me**</h3>
+<p align="center">
 <a href="https://linkedin.com/in/amansuryavanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amansuryavanshi" height="30" width="40" /></a>
 <a href="https://instagram.com/__aman_suryavanshi__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__aman_suryavanshi__" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/_aman_suryavanshi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_aman_suryavanshi_" height="30" width="40" /></a>
