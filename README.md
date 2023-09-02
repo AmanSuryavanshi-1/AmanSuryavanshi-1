@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Aman Suryavanshi</h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"  style="margin-bottom: 10px; border-radius: 10px;">
@@ -57,5 +56,3 @@
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amansuryavanshi-1&show_icons=true&locale=en&layout=compact" alt="amansuryavanshi-1" /></p>
   </div>
 </div>
-
-
