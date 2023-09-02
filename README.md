@@ -41,15 +41,18 @@
  
 <h3 align="center">My Github Stats</h3>
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 10px;">
+<h3 align="center">My Github Stats</h3>
+
+<div style="display: flex; flex-direction: column;">
+  <div style="flex: 1; margin-bottom: 10px;">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=amansuryavanshi-1&show_icons=true&locale=en" alt="amansuryavanshi-1" /></p>
   </div>
-  <div style="flex: 1; margin-right: 10px; margin-top:10px">
+  <div style="flex: 1; margin-bottom: 10px;">
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=amansuryavanshi-1&" alt="amansuryavanshi-1" /></p>
   </div>
   <div style="flex: 1;">
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amansuryavanshi-1&show_icons=true&locale=en&layout=compact" alt="amansuryavanshi-1" /></p>
   </div>
 </div>
+
 
