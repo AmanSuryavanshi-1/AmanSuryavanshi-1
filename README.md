@@ -45,7 +45,7 @@
   <div style="flex: 1; margin-right: 10px;">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=amansuryavanshi-1&show_icons=true&locale=en" alt="amansuryavanshi-1" /></p>
   </div>
-  <div style="flex: 1; margin-right: 10px;">
+  <div style="flex: 1; margin-right: 10px; margin-top:10px">
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=amansuryavanshi-1&" alt="amansuryavanshi-1" /></p>
   </div>
   <div style="flex: 1;">
