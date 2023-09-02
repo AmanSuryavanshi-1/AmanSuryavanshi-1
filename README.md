@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Suryavanshi</h1>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <h3 align="left">
   🌟 Passionate Web Designer & Developer 🚀<br>
   🌍 Based in Delhi, India 🇮🇳 | 4th Year ECE Student 🎓<br>
