@@ -25,6 +25,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UhzDsPThb8wZ0OTE6scf2LOWtQgXgsNk/view?usp=drivesdk](https://drive.google.com/file/d/1UhzDsPThb8wZ0OTE6scf2LOWtQgXgsNk/view?usp=drivesdk)
 
+ <hr>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
