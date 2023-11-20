@@ -25,12 +25,6 @@
   <img src="https://komarev.com/ghpvc/?username=amansuryavanshi-1&label=Profile%20views&color=0e75b6&style=flat" alt="amansuryavanshi-1" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amansuryavanshi-1" alt="amansuryavanshi-1" />
-  </a>
-</p>
-
 <hr>
 
 <h3 align="center">About Me</h3>
