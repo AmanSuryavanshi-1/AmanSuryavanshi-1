@@ -72,5 +72,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amansuryavanshi-1&show_icons=true&locale=en&layout=compact" alt="amansuryavanshi-1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amansuryavanshi-1&show_icons=true&locale=en&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" height="166" alt="amansuryavanshi-1" />
 </div>
