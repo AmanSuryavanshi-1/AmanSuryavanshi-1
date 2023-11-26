@@ -64,7 +64,7 @@
 <h3 align="center">My GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amansuryavanshi-1&show_icons=true&locale=en" alt="amansuryavanshi-1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amansuryavanshi-1&show_icons=true&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="amansuryavanshi-1" />
 </div>
 
 <div align="center">
