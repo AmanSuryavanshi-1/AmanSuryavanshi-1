@@ -68,7 +68,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amansuryavanshi-1" alt="amansuryavanshi-1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amansuryavanshi-1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="159" alt="amansuryavanshi-1" />
 </div>
 
 <div align="center">
