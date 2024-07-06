@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Aman Suryavanshi</h1>
 <p align="center">
-  <img align="right" height="280px" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" style="border-radius: 10px;" alt="Coding">
+  <img align="right" height="200px" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" style="border-radius: 20px;" alt="Coding">
 </p>
 
 <h4 align="left">🌟 Passionate Web Designer & Developer 🚀<br>
