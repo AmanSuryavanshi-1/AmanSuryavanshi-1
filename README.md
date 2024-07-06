@@ -161,18 +161,15 @@
 <hr>
 
 <h2 align="center">📊 Weekly Development Breakdown</h2>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <hr>
 
 <h2 align="center">👨‍💻 Noteworthy Projects</h2>
 <p align="center">
-  <a href="https://github.com/amansuryavanshi-1/Food-Delivering-Site" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amansuryavanshi-1&repo=Food-Delivering-Site&theme=dracula" alt="Food Delivering Site">
+  <a href="https://github.com/AmanSuryavanshi-1/Foodah" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanSuryavanshi-1&repo=Foodah&theme=dracula" alt="Food Delivering Site">
   </a>
-  <a href="https://github.com/amansuryavanshi-1/Your-Next-Book" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amansuryavanshi-1&repo=Your-Next-Book&theme=dracula" alt="Your Next Book">
+  <a href="https://github.com/AmanSuryavanshi-1/TextWise_Frontend" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanSuryavanshi-11&repo=TextWise_Frontend&theme=dracula" alt="Your Next Book">
   </a>
 </p>
 
