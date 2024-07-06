@@ -95,6 +95,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amansuryavanshi-1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="159" alt="GitHub Streak">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansuryavanshi-1&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" height="166" alt="Top Languages">
-</div>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanSuryavanshi-1&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmanSuryavanshi-1&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmanSuryavanshi-1&theme=dracula)
