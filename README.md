@@ -169,7 +169,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanSuryavanshi-1&repo=Foodah&theme=dracula" alt="Food Delivering Site">
   </a>
   <a href="https://github.com/AmanSuryavanshi-1/TextWise_Frontend" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanSuryavanshi-11&repo=TextWise_Frontend&theme=dracula" alt="Your Next Book">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanSuryavanshi-1&repo=TextWise_Frontend&theme=dracula" alt="Your Next Book">
   </a>
 </p>
 
