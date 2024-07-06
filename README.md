@@ -181,5 +181,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/amansuryavanshi-1/AmanSuryavanshi-1/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+  <img src="https://github.com/AmanSuryavanshi-1/AmanSuryavanshi-1/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </p>
