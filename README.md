@@ -1,110 +1,75 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Enhanced UI Example</title>
-  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
-  <style>
-    .shimmer {
-      background: linear-gradient(to right, #f6f7f8 0%, #edeef1 50%, #f6f7f8 100%);
-      background-size: 200% 200%;
-      animation: shimmer 1.5s ease infinite;
-    }
+<h1 align="center">Hi 👋, I'm Aman Suryavanshi</h1>
 
-    @keyframes shimmer {
-      0% {
-        background-position: 0% 50%;
-      }
-      50% {
-        background-position: 100% 50%;
-      }
-      100% {
-        background-position: 0% 50%;
-      }
-    }
-  </style>
-</head>
-<body class="bg-gray-100">
-  <header class="bg-white shadow-md py-4">
-    <div class="container mx-auto flex justify-between items-center">
-      <a href="#" class="text-2xl font-bold text-blue-500">Enhanced UI</a>
-      <nav>
-        <ul class="flex space-x-4">
-          <li><a href="#" class="hover:text-blue-500">Home</a></li>
-          <li><a href="#" class="hover:text-blue-500">About</a></li>
-          <li><a href="#" class="hover:text-blue-500">Services</a></li>
-          <li><a href="#" class="hover:text-blue-500">Contact</a></li>
-        </ul>
-      </nav>
-    </div>
-  </header>
+<p align="center">
+<img alt="Coding" align="right" height="280px" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" style="border-radius: 10px;">
+</p>
 
-  <main class="container mx-auto py-8">
-    <section class="mb-8">
-      <h1 class="text-4xl font-bold mb-4">Welcome to Enhanced UI</h1>
-      <p class="text-gray-600 mb-6">Discover the power of user-centric design and seamless experiences.</p>
-      <div class="flex justify-center">
-        <a href="#" class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg">Get Started</a>
-      </div>
-    </section>
+<h4 align="left">
 
-    <section class="mb-8">
-      <h2 class="text-2xl font-bold mb-4">Our Services</h2>
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-        <div class="bg-white shadow-md rounded-lg p-6">
-          <div class="mb-4 shimmer h-32"></div>
-          <h3 class="text-xl font-bold mb-2">UI Design</h3>
-          <p class="text-gray-600">Crafting visually stunning and user-friendly interfaces.</p>
-        </div>
-        <div class="bg-white shadow-md rounded-lg p-6">
-          <div class="mb-4 shimmer h-32"></div>
-          <h3 class="text-xl font-bold mb-2">UX Research</h3>
-          <p class="text-gray-600">Uncovering user insights to drive impactful design decisions.</p>
-        </div>
-        <div class="bg-white shadow-md rounded-lg p-6">
-          <div class="mb-4 shimmer h-32"></div>
-          <h3 class="text-xl font-bold mb-2">Web Development</h3>
-          <p class="text-gray-600">Transforming designs into responsive, high-performing websites.</p>
-        </div>
-      </div>
-    </section>
+🌟 Passionate Web Designer & Developer 🚀<br>
 
-    <section class="mb-8">
-      <h2 class="text-2xl font-bold mb-4">Why Choose Us?</h2>
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-        <div class="bg-white shadow-md rounded-lg p-6 flex items-center">
-          <div class="text-blue-500 mr-4">
-            <i class="fas fa-check-circle fa-2x"></i>
-          </div>
-          <div>
-            <h3 class="text-xl font-bold mb-2">Attention to Detail</h3>
-            <p class="text-gray-600">We meticulously craft every pixel to ensure a polished, seamless experience.</p>
-          </div>
-        </div>
-        <div class="bg-white shadow-md rounded-lg p-6 flex items-center">
-          <div class="text-blue-500 mr-4">
-            <i class="fas fa-rocket fa-2x"></i>
-          </div>
-          <div>
-            <h3 class="text-xl font-bold mb-2">Cutting-Edge Techniques</h3>
-            <p class="text-gray-600">We stay ahead of the curve, leveraging the latest UI/UX design trends and technologies.</p>
-          </div>
-        </div>
-      </div>
-    </section>
-  </main>
+🌍 Based in Delhi, India 🇮🇳 | 4th Year ECE Student 🎓<br>
 
-  <footer class="bg-gray-800 text-white py-6">
-    <div class="container mx-auto flex justify-between items-center">
-      <p>&copy; 2023 Enhanced UI. All rights reserved.</p>
-      <div class="flex space-x-4">
-        <a href="#" class="hover:text-blue-500"><i class="fab fa-facebook fa-lg"></i></a>
-        <a href="#" class="hover:text-blue-500"><i class="fab fa-twitter fa-lg"></i></a>
-        <a href="#" class="hover:text-blue-500"><i class="fab fa-linkedin fa-lg"></i></a>
-      </div>
-    </div>
-  </footer>
-</body>
-</html>
+🤖 Tech Enthusiast | Problem Solver | Innovator 🌟<br>
+
+💡 Creating Beautiful, User-Centered Digital Experiences 🎨<br>
+
+👨‍💻 Committed to Design Excellence | Tech Enthusiast 🤖<br>
+
+🔍 Exploring Web Development & DSA | Ready for Challenges 💪<br>
+
+💪 Let's connect and build something amazing! 🤝🌐
+</h4>
+
+<p align="left">
+<img src="[https://komarev.com/ghpvc/?username=amansuryavanshi-1&label=Profile views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=amansuryavanshi-1&label=Profile%20views&color=0e75b6&style=flat)" alt="amansuryavanshi-1" />
+</p>
+
+<hr>
+
+<h3 align="center">About Me</h3>
+
+- 🔭 I’m currently working on **my problem-solving skills**
+- 🌱 I’m currently learning **backend tech**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://aman-suryavanshi-portfolio.netlify.app/)
+- 📫 How to reach me: [amansuryavanshi2002@gmail.com](mailto:amansuryavanshi2002@gmail.com)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1UhzDsPThb8wZ0OTE6scf2LOWtQgXgsNk/view?usp=drivesdk)
+
+<hr>
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+<a href="https://linkedin.com/in/amansuryavanshi" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amansuryavanshi" height="30" width="40" />
+</a>
+<a href="https://instagram.com/__aman_suryavanshi__" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="**aman_suryavanshi**" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/_aman_suryavanshi_" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="*aman_suryavanshi*" height="30" width="40" />
+
+</a>
+</p>
+
+<hr>
+
+<h3 align="center">Languages and Tools</h3>
+
+<p align="center"> <a href="[https://getbootstrap.com](https://getbootstrap.com/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/"
+target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="[https://nodejs.org](https://nodejs.org/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+</p>
+<hr>
+
+<h3 align="center">My GitHub Stats</h3>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=amansuryavanshi-1&show_icons=true&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="amansuryavanshi-1" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amansuryavanshi-1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="159" alt="amansuryavanshi-1" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amansuryavanshi-1&show_icons=true&locale=en&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" height="166" alt="amansuryavanshi-1" />
+</div>
