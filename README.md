@@ -168,7 +168,7 @@
   <a href="https://github.com/AmanSuryavanshi-1/Foodah" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanSuryavanshi-1&repo=Foodah&theme=dracula" alt="Food Delivering Site">
   </a>
-  <a href="https://github.com/AmanSuryavanshi-1/TextWise_Frontend" target="_blank">
+  <a href="https:/github.com/AmanSuryavanshi-1/TextWise_Frontend" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanSuryavanshi-1&repo=TextWise_Frontend&theme=dracula" alt="Your Next Book">
   </a>
 </p>
@@ -177,9 +177,9 @@
 
 <h2 align="center">📈 Contributions</h2>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=amansuryavanshi-1&theme=dracula&bg_color=282a36&hide_border=true" alt="Contribution Graph" width="100%">
+  <img src="https://activity-graph.herokuapp.com/graph?username=AmanSuryavanshi-1&theme=dracula&bg_color=282a36&hide_border=true" alt="Contribution Graph" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/amansuryavanshi-1/amansuryavanshi-1/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+  <img src="https://github.com/amansuryavanshi-1/AmanSuryavanshi-1/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </p>
