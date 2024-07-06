@@ -13,7 +13,7 @@
 </h4>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AmanSuryavanshi-1&label=Profile views&color=0e75b6&style=flat" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=amansuryavanshi-1&label=Profile views&color=0e75b6&style=flat" alt="amansuryavanshi-1" />
 </p>
 
 <hr>
