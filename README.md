@@ -183,4 +183,60 @@
 <h2 align="center">💡 What I'm Building</h2>
 
 <div align="center">
+const AmanSuryavanshi = {
+currentFocus: "AI Automation + Product Management",
+expertise: ["n8n Workflows", "LLM Integration", "Next.js", "Performance"],
+activeProjects: [
+"🤖 RAG-powered n8n automation workflows",
+"📱 Social media auto-posting with AI content generation",
+"🚀 Building in public - sharing automation insights",
+"💼 High-performance business solutions"
+],
+businessImpact: "80% process reduction achieved",
+lookingFor: ["Product Manager Roles", "AI Automation Opportunities", "Collaborations"],
+motto: "Building intelligent solutions that drive real business results! 🚀"
+};
 
+text
+
+</div>
+
+---
+
+<h2 align="center">🤝 Let's Build Something Amazing Together!</h2>
+
+<div align="center">
+
+**🔍 Open to opportunities in:**
+- 🤖 **AI Automation Development**
+- 📊 **Technical Product Management**
+- 🛠️ **No-Code/Low-Code Development**
+- 🚀 **High-Performance Web Development**
+
+**💬 Always happy to discuss:**
+- AI & Automation workflows
+- Product management strategies
+- Performance optimization techniques
+- Building in public journey
+
+<p>
+  <a href="mailto:amansurya.work@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email_Me-amansurya.work@gmail.com-2ECC71?style=for-the-badge" alt="Email">
+  </a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+</div>
+
+<div align="center">
+
+**⭐ If you find my work interesting, feel free to star my repositories!**
+
+**💼 Open to collaborations and exciting opportunities**
+
+</div>
