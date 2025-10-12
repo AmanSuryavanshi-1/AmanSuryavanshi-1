@@ -184,25 +184,21 @@
 
 <div align="center">
 
-const AmanSuryavanshi = {
-currentFocus: "AI Automation + Product Management",
-activeProjects: [
-"RAG-powered n8n automation workflows",
-"Social media auto-posting with LLM optimization",
-"High-performance Next.js applications",
-"Building in public journey"
-],
-expertise: ["n8n Workflows", "LLM Integration", "Next.js", "Performance SEO"],
-businessImpact: "80% process reduction achieved",
-lookingFor: [
-"Product Manager Roles",
-"AI Automation Opportunities",
-"Tech Collaborations"
-],
-motto: "Building intelligent solutions that drive real business results! 🚀"
-};
+### 🔄 Current Focus: AI Automation + Product Management
 
-text
+**🚀 Active Projects:**
+- 🧠 **RAG-powered n8n automation workflows** - Intelligent document processing
+- 📱 **Social media auto-posting with LLM optimization** - Content automation
+- ⚡ **High-performance Next.js applications** - Business solutions
+- 🌱 **Building in public journey** - Knowledge sharing & community
+
+**💪 Expertise:** n8n Workflows | LLM Integration | Next.js | Performance SEO
+
+**🎯 Business Impact:** 80% process reduction achieved
+
+**🔍 Looking For:** Product Manager Roles | AI Automation Opportunities | Tech Collaborations
+
+**💡 Motto:** Building intelligent solutions that drive real business results! 🚀
 
 </div>
 
