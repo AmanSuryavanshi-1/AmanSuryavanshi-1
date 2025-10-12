@@ -1,103 +1,190 @@
 <h1 align="center">Hi there 👋, I'm Aman Suryavanshi</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+Automation+Developer+🤖;Building+Intelligent+Workflows;80%25+Process+Reduction+Achieved;Next.js+%7C+n8n+%7C+LLM+Integration" alt="Typing SVG" />
+</div>
+
 <p align="center">
-  <img align="right" height="200px" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" style="border-radius: 20px;" alt="Coding">
+  <img align="right" height="200px" width="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" style="border-radius: 20px;" alt="Coding Animation">
 </p>
 
-<h4 align="left">🌟 Passionate Web Designer & Developer 🚀<br>
-  🌍 Based in Delhi, India 🇮🇳 | 4th Year ECE Student 🎓<br>
-  🤖 Tech Enthusiast | Problem Solver | Innovator 🌟<br>
-  💡 Creating Beautiful, User-Centered Digital Experiences 🎨<br>
-  👨‍💻 Committed to Design Excellence | Tech Enthusiast 🤖<br>
-  🔍 Exploring Web Development & DSA | Ready for Challenges 💪<br>
-  💪 Let's connect and build something amazing! 🤝🌐
-</h4>
+<h3 align="left">🚀 AI Automation Specialist | Product-Minded Developer</h3>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=AmanSuryavanshi-1&label=ProfileViews&color=0e75b6&style=flat" alt="amansuryavanshi-1" />
+🤖 <strong>Passionate about building intelligent workflows that drive real business results</strong><br>
+🌍 <strong>Delhi, India</strong> | Open to Remote Opportunities 🌐<br>
+⚡ <strong>80% Process Reduction Achieved</strong> | 95+ Lighthouse Scores 🎯<br>
+🛠️ <strong>n8n + LLMs + Next.js</strong> | Performance & SEO Expert 📊<br>
+💡 <strong>Building in Public</strong> | AI Product Management Aspirant 🎨<br>
+🎓 <strong>B.Tech ECE Graduate</strong> | Systematic Problem Solver 🧠<br>
 </p>
 
-<hr>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=AmanSuryavanshi-1&label=Profile%20Views&color=2ECC71&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/AmanSuryavanshi-1?label=Followers&style=for-the-badge&color=2ECC71&labelColor=1e3a8a" alt="Followers" />
+</p>
 
-<h3 align="center">About Me</h3>
+---
 
-- 🔭 I’m currently working on improving my problem-solving skills
-- 🌱 I’m currently learning backend technologies
-- 👨‍💻 All of my projects are available at [My Portfolio](https://amansuryavanshi-dev.vercel.app/)
-- 📫 How to reach me: [amansuryavanshi2002@gmail.com](mailto:amansuryavanshi2002@gmail.com)
-- 📄 Know about my experiences [View Resume](#)
+<h2 align="center">🎯 About Me</h2>
 
-<hr>
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-<h3 align="center">Connect with me</h3>
+### 🔭 Currently Working On
+- **AI-powered automation systems** using n8n & LLMs
+- **High-performance web applications** with Next.js
+- **Business process optimization** projects
+- **Building in public** - sharing knowledge & insights
+
+### 🌱 Learning & Growing
+- Advanced **Product Management** frameworks
+- **Large Language Model** integrations
+- **System architecture** for scalable automation
+- **Technical writing** and content creation
+
+</td>
+<td valign="top" width="50%">
+
+### 💼 Recent Achievements
+- 🏆 **80% process reduction** for Aviators Training Centre
+- 🚀 **Top Google rankings** through SEO optimization
+- ⚡ **95+ Lighthouse scores** consistently achieved
+- 🤖 **Multi-LLM RAG system** implementation
+
+### 📫 Let's Connect
+- 💼 [Portfolio](https://amansuryavanshi-dev.vercel.app/)
+- 📧 [Email](mailto:amansurya.work@gmail.com)
+- 📄 [Resume](https://drive.google.com/your-resume-link)
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3 align="center">🤝 Connect with me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/amansuryavanshi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/YourTwitterHandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://instagram.com/__aman_suryavanshi__" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.leetcode.com/_aman_suryavanshi_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
 </p>
 
-<hr>
+---
 
-<h2 align="center">🔥 Languages and Tools:</h2>
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; background: #0d1117; padding: 20px; border-radius: 10px;">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Material UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="Babel"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-  <img src="https://img.shields.io/badge/GitHub Pages-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"/>
-  <img src="https://img.shields.io/badge/Visual Studio Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart-dot-js&logoColor=white" alt="Chart.js"/>
-</div>
-
-<hr>
-
-<h3 align="center">My GitHub Stats</h3>
+<h2 align="center">🛠️ Tech Stack & Expertise</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amansuryavanshi-1&show_icons=true&locale=en&mode=nightowl&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Stats">
+
+### 🤖 AI & Automation
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-886CE4?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+### 🌐 Frontend & Performance
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+
+### 🛠️ Tools & Platform
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+### 🚁 Aviators Training Centre
+[![Aviators Training Centre](https://github-readme-stats.vercel.app/api/pin/?username=AmanSuryavanshi-1&repo=Aviators_Training_Centre&theme=radical)](https://github.com/AmanSuryavanshi-1/Aviators_Training_Centre)
+
+**🎯 Business Impact:**
+- ⚡ **80% reduction** in manual lead management processes
+- 🏆 **Top Google rankings** through advanced SEO optimization
+- 📊 **95+ Lighthouse score** for performance excellence
+- 🤖 **AI-powered automation** with n8n workflows
+
+**Tech Stack:** Next.js 15, TypeScript, Firebase, Sanity CMS, n8n
+
+---
+
+### 🧠 AI Document Intelligence System
+**RAG-powered document querying with multi-LLM integration**
+- 🔍 Multi-LLM integration (Gemini, Claude, GPT)
+- 📚 Intelligent document processing
+- ⚡ Contextual response generation
+- 🛠️ Built with Python, RAG, Prompt Engineering
+
+---
+
+### 📱 Social Media Automation
+**Intelligent workflow automation for content distribution**
+- 📈 **70% reduction** in manual social media effort
+- 🤖 AI-powered content transformation
+- 🔗 Multi-platform orchestration
+- 🛠️ Built with n8n, OAuth2, Twitter API
+
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmanSuryavanshi-1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanSuryavanshi-1&theme=radical&hide_border=true" height="165" alt="GitHub Streak">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amansuryavanshi-1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="159" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanSuryavanshi-1&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages">
 </div>
 
-My Github Stats
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanSuryavanshi-1&theme=radical&hide_border=true&area=true" alt="Activity Graph">
+</div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanSuryavanshi-1&theme=dracula) 
+---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmanSuryavanshi-1&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmanSuryavanshi-1&theme=dracula)
+<h2 align="center">🎯 Key Achievements</h2>
+
+<div align="center">
+  
+![Process Reduction](https://img.shields.io/badge/Process_Reduction-80%25-2ECC71?style=for-the-badge&logo=trending-up)
+![Lighthouse Score](https://img.shields.io/badge/Lighthouse_Score-95+-FF6B35?style=for-the-badge&logo=lighthouse)
+![Google Rankings](https://img.shields.io/badge/SEO-Top_Rankings-4285F4?style=for-the-badge&logo=google)
+![Business Impact](https://img.shields.io/badge/Business_Impact-Proven-8E44AD?style=for-the-badge&logo=chart-line)
+
+</div>
+
+---
+
+<h2 align="center">💡 What I'm Building</h2>
+
+<div align="center">
+
