@@ -54,7 +54,7 @@
 - 🤖 **Multi-LLM RAG system** implementation
 
 ### 📫 Let's Connect
-- 💼 [Portfolio](https://amansuryavanshi-dev.vercel.app/)
+- 💼 [Portfolio](https://amansuryavanshi.com/)
 - 📧 [Email Me](mailto:amansurya.work@gmail.com)
 - 📄 [View Resume](https://drive.google.com/file/d/1GbjO_SYdVGdAVfQA_Mt-Rcf9TsDemYTM/view?usp=sharing)
 
